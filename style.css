@@ -1,0 +1,80 @@
+body{
+    background-image: url("https://i.pinimg.com/564x/ba/df/11/badf1178e11801d8b36146c18fd06e13.jpg");
+    font-family: "Gill Sans MT Condensed";
+}
+
+div{  
+	text-align: center;
+	background-color: white;
+	width: 500;
+	background:rgba(233, 150, 122, 0.15); 
+	transform: translateY(2%);
+}
+
+hr{
+	font-size: 30px;
+	font-style: normal;
+}
+
+form{
+	font-family: "Gill Sans MT Condensed";
+	color: silver;
+	font-size: 25px;
+}
+::selection {
+  background: darksalmon;
+  color: white;
+}
+
+.cajas{
+	background-color: lightgray;
+	font-family: "Gill Sans MT Condensed";
+	color: coral;
+	text-align: center;
+	border-radius: 8px;
+	width: 420;
+	height: 50px;
+	font-size: 25px;	
+}
+::selection {
+  background: darksalmon;
+  color: white;
+}
+.cajas:hover{
+	background-color: darkgray;
+}
+
+.btnN{
+	font-family: "Gill Sans MT Condensed";
+	font-size: 27px;
+	color: seashell;
+	background-color: lightsalmon;
+	border: outset;
+	border-color: darksalmon;
+}
+.btnN:hover{
+	background-color: indianred;
+	border-color: lightcoral;
+}
+
+img{
+	border: none;
+	width: 100px;
+	height: 100px;
+}
+
+.ok{
+	background-color: #58D68D ;
+	color: white;
+	font-family: 'Gill Sans MT Condensed';
+	font-size: 30px;
+	text-align: center;
+}
+
+.okcomputeroknotok{
+	background-color: #E74C3C;
+	color: white;
+	font-family: 'Gill Sans MT Condensed';
+	font-size: 30px;
+	text-align: center;
+}
